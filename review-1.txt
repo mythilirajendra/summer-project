@@ -1,0 +1,10 @@
+This week I started learning about MQTT protocol. I've covered the following topics:
+1.QoS (Quality of Service)
+2.Retained message
+3.Flags
+4.Packet structure- fixed header, variable header, and payload.
+
+The coming week, I'm going to focus on:
+1.Mosquitto
+2.HiveMQ
+3.Eclipse
