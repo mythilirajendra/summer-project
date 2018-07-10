@@ -1,0 +1,3 @@
+I've created an IFTTT Applet that sends a message via E-mail if certain conditions are met. The data is collected from my ThingSpeak channel.
+In my case, a message - "Someone is at your door" is sent when the sensors detect someone, i.e., the value of distance in my channel falls below a certain value.
+I've uploaded the matlab code here. I've used the Webhooks services in IFTTT. 
